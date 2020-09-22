@@ -1,12 +1,11 @@
-### Setup
+# Todo
 
-This app was created using the `create-react-app` boilerplate.
+### About
+This is a simple todo application. Goal of this project was to learn Redux and praxctice using it.
 
-#### Install Dependencies
-`npm install`  
+### Built with
+- React
+- Redux
 
-#### Start Dev Server
-`npm start`  
-
-### Run Tests
-`npm test`
+### Contributors
+- [Edita Ignot](https://github.com/edignot)
